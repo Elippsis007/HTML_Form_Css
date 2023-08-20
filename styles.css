@@ -6,4 +6,11 @@ body {
     height: 100vh;
     /* Getting rid of the scroll bar at bottom of page */
     margin: 0;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
 }
